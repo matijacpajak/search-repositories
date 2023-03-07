@@ -1,0 +1,20 @@
+.AvatarImg {
+  border-radius: 50%;
+}
+
+.CardMoreInfo {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: center;
+}
+
+.CardSingleInfo {
+  display: flex;
+  align-items: center;
+}
+
+.Owner {
+  color: saddlebrown;
+  font-weight: 600;
+}
